@@ -9,6 +9,34 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
+<h2 align="center">Some of my projects:</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">BTMX: Bass Tabs to MusicXML</h3>
+<!--         <div align="center> -->
+          <em>Python</em>
+            <img src="btmx.gif" alt="BTMX demonstration" height="100%"
+          </div>
+          <p>A lightweight Python program that can generate MusicXML files from text-based bass guitar tablature.</p>
+        <a href="https://github.com/mzod-up/btmx" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+				  </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">Cebu Gluta Supplier</h3>
+        <em>React, CSS, Node.js, Netlify</em>
+          <div>
+            <img src="cebuglutasupplier.gif" alt="Cebu Gluta Supplier demonstration" height="100%">
+          </div>
+          <p>A React website made for a local beauty product supplier. Features a product catalog to browse through items, and Facebook Messenger integration to allow for direct communication with the supplier.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ### I'm looking for work. Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/mariellezarahdy/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
