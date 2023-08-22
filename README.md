@@ -1,6 +1,6 @@
 <img src="header_resized.gif" alt="Howdy, Marielle here. web developer · software developer · game developer">
 
-### My tech stack:
+##### Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-<h2 align="center">Some of my projects:</h2>
+<h3 align="center">Projects</h3>
 <div align="center">
   <table>
     <tr>
@@ -30,28 +30,15 @@
           <div>
             <img src="cebuglutasupplier.gif" alt="Cebu Gluta Supplier demonstration" height="100%">
           </div>
-          <p>A React website made for a local beauty product supplier. Features a product catalog to browse through items, and Facebook Messenger integration to allow for direct communication with the supplier.</p>
+          <p>A responsive React website made for a local beauty product supplier. Features a product catalog to browse through, and Facebook Messenger integration to allow for direct communication with the supplier.</p>
       </td>
     </tr>
   </table>
 </div>
 
 
-### I'm looking for work. Connect with me:
+###### I'm looking for work! Connect with me:
+
 <a target="_blank" href="https://www.linkedin.com/in/mariellezarahdy/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<!--
-**mzod-up/mzod-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
