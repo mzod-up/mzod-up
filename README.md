@@ -26,7 +26,7 @@
       </td>
       <td width="50%">
         <h3 align="center">Cebu Gluta Supplier</h3>
-        <em>React, CSS, Node.js, Netlify</em>
+        <em>React, CSS, Netlify</em>
           <div>
             <img src="cebuglutasupplier.gif" alt="Cebu Gluta Supplier demonstration" height="100%">
           </div>
