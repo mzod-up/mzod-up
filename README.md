@@ -1,6 +1,7 @@
 <img src="header_resized.gif" alt="Howdy, Marielle here. web developer · software developer · game developer">
 
-##### Tech Stack 
+##### Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,9 +34,32 @@
           <p>A responsive React website made for a local beauty product supplier. Features a product catalog to browse through, and Facebook Messenger integration to allow for direct communication with the supplier.</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">JBCT Lyfstyle Company Page</h3>
+<!--         <div align="center> -->
+          <em>HTML, CSS</em>
+            <img src="jbct.gif" alt="JBCT Lyfstyle demonstration" height="100%"
+          </div>
+          <p>A responsive website made with HTML and CSS for an herbal supplement company - JBCT Lyfstyle. Features a landing page, a product page, and a login page for company members to access their dashboard.</p>
+        <a href="https://github.com/mzod-up/mzod-up.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+				  </a>
+      </td>
+      <td width="50%">
+        <h3 align="center">Ghosts Like To Sing</h3>
+        <em>Godot, Netlify</em>
+          <div>
+            <img src="ghosts.gif" alt="Ghosts Like to Sing demonstration" height="100%">
+          </div>
+          <p>A small browser game made using Godot where you control a choir of ghosts using your keyboard. Hosted on Netlify.</p>
+          <a href="https://ghostsliketosing.netlify.app/ target="_blank">
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge">
+          </a>
+      </td>
+    </tr>
   </table>
 </div>
-
 
 ###### I'm looking for work! Connect with me:
 
