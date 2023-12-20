@@ -21,9 +21,9 @@
   <tr>
       <td width="100%" colspan=2>
         <h3 align="center">ROYGBV</h3>
-<!--         <div align="center> -->
+        <div align="center">
           <em>React, CSS, MongoDB, Netlify</em>
-            <img src="roygbv.gif" alt="BTMX demonstration" width="100%" 
+            <img src="roygbv.gif" alt="BTMX demonstration" height="200px" 
           </div>
           <p>An online, hyper-casual, minimalistic color memory game made with React and Netlify functions. Features a serverless global leaderboard system. Also playable on mobile devices.</p>
         <a href="https://roygbv.netlify.app" target="_blank">
